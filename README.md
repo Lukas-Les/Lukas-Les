@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Rust enthusiast, and I am interested in networking and data engineering.
+Rust enthusiast
 
 
 ## 🌐 Socials:
