@@ -1,5 +1,6 @@
-# 💫 About Me:
-Rust enthusiast
+# 🛠️ Current focus:
+  - [Girios](https://github.com/Lukas-Les/girios) - tree based in memory storage database from scratch;
+  - [vinseers](https://github.com/Lukas-Les/vinseers) - GUI and CLI tool for finding vehicle identification number in files;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-les/) 
 
