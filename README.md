@@ -33,6 +33,10 @@
 ### Monitoring
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
 
+### Browser automation
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lukas-Les&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Les&theme=dark&hide_border=false)<br/>
